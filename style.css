@@ -1,0 +1,61 @@
+body{
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(157,0,0,1) 48%, rgba(0,0,0,1) 100%);
+}
+
+.box{
+    width: 500px;
+    height: 600px;
+    background-color: black;
+    position: absolute;
+    left: 410px;
+    top: 70px;
+    opacity: 75%;
+    border-radius: 20px;
+    
+}
+.heading1{
+    color: white;
+    font-family: sans-serif;
+    position: absolute;
+    left: 500px;
+     top: -10px ;
+}
+.image1{
+    text-align: center;
+}
+input{
+    background: transparent;
+    border-top: transparent;
+    border-left: transparent;
+    border-right: transparent;
+    border-width:2px;
+    position: relative;
+    left: 44px;
+    color: white;
+}
+h3{
+    color: white;
+    font-family: sans-serif;
+    font-weight: 100;
+    position: relative;
+    left: 45px;
+    top: 10px;
+}
+h4{
+    color: white;
+    font-family: sans-serif;
+    font-weight: 100;
+    position: relative;
+    left: 70px;
+    bottom: 39px;
+}
+h5{
+    color: white;
+    font-family: sans-serif;
+    font-weight: 100;
+    position: relative;
+    left: 370px;
+    bottom: 74px;
+    cursor: pointer;
+}
